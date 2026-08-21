@@ -1,4 +1,9 @@
 {
+    "description" : "Standard & Poor's 400 Index, Mid-Cap",
+    "displayedByDefault" : false,
+    "name" : "S&P 400 Index",
+    "version" : 1,
+    "workspace" : 0,
     "symbols" : [
         "AA",
         "AAL",
@@ -401,9 +406,4 @@
         "YETI",
         "ZION",
     ],
-    "displayedByDefault" : false,
-    "version" : 1,
-    "workspace" : 0,
-    "name" : "S&P 400 Index",
-    "description" : "Standard & Poor's 400 Index, Mid-Cap"
 }

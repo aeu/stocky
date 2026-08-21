@@ -1,5 +1,9 @@
 {
-
+    "description" : "Standard & Poor's 600 Index, Small-Cap",
+    "displayedByDefault" : false,
+    "name" : "S&P 600 Index",
+    "version" : 1,
+    "workspace" : 0,
     "symbols" : [
         "AAMI",
         "AAP",
@@ -605,9 +609,4 @@
         "ZD",
         "ZWS",
     ],
-    "displayedByDefault" : false,
-    "version" : 1,
-    "workspace" : 0,
-    "name" : "S&P 600 Index",
-    "description" : "Standard & Poor's 600 Index, Small-Cap"
 }

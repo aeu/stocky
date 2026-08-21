@@ -1,4 +1,9 @@
 {
+    "description": "Nasdaq 100 Index",
+    "displayedByDefault": false,
+    "name": "Nasdaq 100 Index",
+    "version": 1,
+    "workspace": 0,
     "symbols": [
         "AAPL",
         "ABNB",
@@ -103,9 +108,4 @@
         "WMT",
         "XEL"
     ],
-    "displayedByDefault": false,
-    "version": 1,
-    "workspace": 0,
-    "name": "Nasdaq 100 Index",
-    "description": "Nasdaq 100 Index"
 }

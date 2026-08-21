@@ -1,9 +1,9 @@
 {
     "description" : "Member companies of the Russell 2000 Small-Cap Index",
+    "displayedByDefault" : false,
+    "name" : "Russell 2000",
     "version" : 1,
     "workspace" : 0,
-    "name" : "Russell 2000",
-    "displayedByDefault" : false,
     "symbols" : [
         "AAMI",
         "AAP",

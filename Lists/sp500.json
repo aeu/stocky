@@ -1,4 +1,9 @@
 {
+    "description" : "Standard & Poor's 500 Index",
+    "displayedByDefault" : false,
+    "name" : "S&P 500 Index",
+    "version" : 1,
+    "workspace" : 0,
     "symbols" : [
         "A",
         "AAPL",
@@ -504,9 +509,4 @@
         "ZBRA",
         "ZTS"
     ],
-    "displayedByDefault" : false,
-    "version" : 1,
-    "workspace" : 0,
-    "name" : "S&P 500 Index",
-    "description" : "Standard & Poor's 500 Index"
 }
